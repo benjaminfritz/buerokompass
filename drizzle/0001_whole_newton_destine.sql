@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `idx_jobs_owner_url` ON `jobs` (`owner`,`url`);

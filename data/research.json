@@ -1,0 +1,20 @@
+{
+  "lastAttemptAt": "2026-10-09T07:15:50.000Z",
+  "sources": [
+    {
+      "name": "Stepstone",
+      "status": "success",
+      "lastSuccessAt": "2026-10-09T07:15:50.000Z"
+    },
+    {
+      "name": "Indeed",
+      "status": "partial",
+      "lastSuccessAt": "2026-10-06T07:01:36.000Z"
+    },
+    {
+      "name": "Arbeitsagentur",
+      "status": "success",
+      "lastSuccessAt": "2026-10-09T07:15:50.000Z"
+    }
+  ]
+}

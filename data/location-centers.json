@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Dortmund",
+    "latitude": 51.51494,
+    "longitude": 7.466,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Dortmund&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2935517
+  },
+  {
+    "name": "Bochum",
+    "latitude": 51.48165,
+    "longitude": 7.21648,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Bochum&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2947416
+  },
+  {
+    "name": "Bergkamen",
+    "latitude": 51.61633,
+    "longitude": 7.64451,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Bergkamen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2950344
+  },
+  {
+    "name": "Castrop-Rauxel",
+    "latitude": 51.55657,
+    "longitude": 7.31155,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Castrop-Rauxel&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2940231
+  },
+  {
+    "name": "Lünen",
+    "latitude": 51.61634,
+    "longitude": 7.52872,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=L%C3%BCnen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2875107
+  },
+  {
+    "name": "Schwerte",
+    "latitude": 51.44387,
+    "longitude": 7.5675,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Schwerte&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2834265
+  },
+  {
+    "name": "Witten",
+    "latitude": 51.44362,
+    "longitude": 7.35258,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Witten&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2807363
+  },
+  {
+    "name": "Unna",
+    "latitude": 51.53795,
+    "longitude": 7.68969,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Unna&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2820087
+  },
+  {
+    "name": "Kamen",
+    "latitude": 51.59231,
+    "longitude": 7.6638,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Kamen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2893438
+  },
+  {
+    "name": "Herne",
+    "latitude": 51.5388,
+    "longitude": 7.22572,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Herne&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2905891
+  },
+  {
+    "name": "Waltrop",
+    "latitude": 51.62125,
+    "longitude": 7.40238,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Waltrop&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2814362
+  },
+  {
+    "name": "Datteln",
+    "latitude": 51.65598,
+    "longitude": 7.3453,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Datteln&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2938784
+  },
+  {
+    "name": "Holzwickede",
+    "latitude": 51.5,
+    "longitude": 7.63333,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Holzwickede&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2899538
+  },
+  {
+    "name": "Herdecke",
+    "latitude": 51.39999,
+    "longitude": 7.43584,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Herdecke&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2906152
+  },
+  {
+    "name": "Hagen",
+    "latitude": 51.36081,
+    "longitude": 7.47168,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Hagen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2912621
+  },
+  {
+    "name": "Wetter",
+    "latitude": 51.38747,
+    "longitude": 7.39277,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Wetter&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2809984
+  },
+  {
+    "name": "Recklinghausen",
+    "latitude": 51.61379,
+    "longitude": 7.19738,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Recklinghausen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2849647
+  },
+  {
+    "name": "Selm",
+    "latitude": 51.69689,
+    "longitude": 7.46809,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Selm&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2833170
+  },
+  {
+    "name": "Werne",
+    "latitude": 51.66446,
+    "longitude": 7.63421,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Werne&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2810833
+  },
+  {
+    "name": "Fröndenberg",
+    "latitude": 51.47563,
+    "longitude": 7.76946,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Fr%C3%B6ndenberg&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2924206
+  },
+  {
+    "name": "Gelsenkirchen",
+    "latitude": 51.50508,
+    "longitude": 7.09654,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Gelsenkirchen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2921466
+  },
+  {
+    "name": "Iserlohn",
+    "latitude": 51.37547,
+    "longitude": 7.70281,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Iserlohn&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2895669
+  },
+  {
+    "name": "Herten",
+    "latitude": 51.59638,
+    "longitude": 7.14387,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Herten&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2905560
+  },
+  {
+    "name": "Gevelsberg",
+    "latitude": 51.31971,
+    "longitude": 7.3392,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Gevelsberg&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2920757
+  },
+  {
+    "name": "Ascheberg",
+    "latitude": 51.78333,
+    "longitude": 7.61667,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Ascheberg&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2955224
+  },
+  {
+    "name": "Soest",
+    "latitude": 51.57558,
+    "longitude": 8.10619,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Soest&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2831708
+  },
+  {
+    "name": "Hattingen",
+    "latitude": 51.39894,
+    "longitude": 7.18557,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=Hattingen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2909230
+  },
+  {
+    "name": "Bönen",
+    "latitude": 51.6,
+    "longitude": 7.76667,
+    "source": "https://geocoding-api.open-meteo.com/v1/search?name=B%C3%B6nen&count=10&language=de&format=json&countryCode=DE",
+    "geonamesId": 2946478
+  }
+]

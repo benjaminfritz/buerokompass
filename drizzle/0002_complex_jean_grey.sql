@@ -1,0 +1,1 @@
+ALTER TABLE `job_state` ADD `dismissed` integer DEFAULT 0 NOT NULL;

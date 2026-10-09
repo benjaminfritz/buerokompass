@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788534810243,
+      "tag": "0000_nebulous_harpoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788535018768,
+      "tag": "0001_whole_newton_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788535799552,
+      "tag": "0002_complex_jean_grey",
+      "breakpoints": true
+    }
+  ]
+}
